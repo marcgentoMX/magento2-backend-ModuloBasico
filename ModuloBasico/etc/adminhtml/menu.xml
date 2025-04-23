@@ -14,7 +14,7 @@
 			title="MarcgentoBackend Index"
 			module="Marcgento_ModuloBasico"
 			sortOrder="51"
-            parent="Magento_ModuloBasico::marcgentobackend"
+            parent="Marcgento_ModuloBasico::marcgentobackend"
             action="marcgentoadmin/index/"
             resource="Marcgento_ModuloBasico::index"
 		/>
